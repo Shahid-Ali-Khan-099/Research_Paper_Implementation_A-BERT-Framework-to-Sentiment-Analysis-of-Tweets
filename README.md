@@ -7,7 +7,7 @@ Sentiment analysis is the automatic process of classifying text data according t
 Each row contains the text of a tweet and a sentiment label. In the training set you are provided with a word or phrase drawn from the tweet (selected_text) that encapsulates the provided sentiment. The dataset has 27.5k tweets labelled according to their sentiment. Each row contains the text of a tweet and a sentiment label. In the training set you are provided with a word or phrase drawn from the tweet (selected_text) that encapsulates the provided sentiment.
 
 # Columns
-# ** textID - unique ID for each piece of text**
-# text - the text of the tweet
-# sentiment - the general sentiment of the tweet
-# selected_text - [train only] the text that supports the tweet's sentiment
+#textID - unique ID for each piece of text**
+#text - the text of the tweet
+#sentiment - the general sentiment of the tweet
+#selected_text - [train only] the text that supports the tweet's sentiment
